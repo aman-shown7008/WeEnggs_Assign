@@ -1,0 +1,24 @@
+/*=============== GOOGLE FONTS ===============*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.section{
+  padding: 40px 80px;
+}
+
+.cellStyle{
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+};
+
+.inputStyle{
+  width: 70px;
+  padding: 4px;
+};
